@@ -1,4 +1,4 @@
-package com.farmacia.controller;
+package com.farmacia.http.v1;
 
 import com.farmacia.entity.Farmacia;
 import com.farmacia.service.FarmaciaService;
